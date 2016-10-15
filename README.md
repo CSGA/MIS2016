@@ -24,7 +24,7 @@ ER图截图
 
 ###使用MySQL查询语句及结果图
 
-[建表sql语句文件链接](/oct-database/电气保养查询语句.sql)
+[建表sql语句文件链接](/oct-database/电气设备保养.sql)
 
 输入设备号查看设备保养历史：
 ![Alt text](/oct-database/设备号查询结果.jpg)
