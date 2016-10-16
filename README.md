@@ -5,7 +5,7 @@
 [ER图的cdm文件链接](/oct-CDM/电气设备保养CDM.cdm)
 
 ER图截图
-![Alt text](/oct-CMD/CDM截图.jpg)
+![Alt text](/oct-CDM/CDM截图.jpg)
 
 ###使用Axure制作系统原型
 
