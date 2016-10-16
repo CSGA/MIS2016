@@ -30,3 +30,8 @@ ER图截图
 ![Alt text](/oct-database/设备号查询结果.jpg)
 输入当前日期进行设备维修预警：
 ![Alt text](/oct-database/预警查询结果.jpg)
+
+
+###用例图和用例描述
+![Alt text](/oct-用例图用例描述/电气保养用例图截图.jpg)
+![Alt text](/oct-用例图用例描述/用例描述截图.jpg)
