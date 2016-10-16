@@ -2,7 +2,7 @@
 ##Oct.2016电气设备保养系统
 ###使用PowerDesigner画ER图
 
-[ER图的cdm文件链接](/oct-CMD/电气设备保养CDM.cdm)
+[ER图的cdm文件链接](/oct-CDM/电气设备保养CDM.cdm)
 
 ER图截图
 ![Alt text](/oct-CMD/CDM截图.jpg)
